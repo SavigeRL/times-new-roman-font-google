@@ -1,6 +1,7 @@
 # Force Times New Roman TED
 
 A Chrome extension that forces websites to use Times New Roman font.
+Please put a comment or something if you want me to add websites or whatnot please
 
 ## Supported Websites
 - Google (google.com)
