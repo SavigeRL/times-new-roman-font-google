@@ -3,6 +3,10 @@
 A Chrome extension that forces websites to use Times New Roman font.
 Please put a comment or something if you want me to add websites or whatnot please
 
+If you want to add your own websites, once youve downloaded the manifest.json, open it in notepad, and on the last website add a comma then add a line like this with 8 spaces before you type
+        "*://*.google.com/*",
+        "*://*.google.com/*"
+
 ## Supported Websites
 - Google (google.com)
 - Spotify (open.spotify.com)
